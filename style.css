@@ -1,0 +1,59 @@
+h1{
+    color: red;
+}
+h2{
+    font-style: italic;
+    color: orangered;
+}
+ol{
+    color: rgb(159, 7, 7);
+}
+span{
+    font-weight: 950;
+}
+.first{
+    text-decoration: line-through;
+}
+.second{
+    background-color: rgb(253, 253, 17);
+}
+.third{
+    text-decoration: underline;
+}
+.fourth{
+    background-color: yellow
+}
+ul{
+    color:rgb(181, 22, 22);
+    font-size: 18px;
+    letter-spacing: 4px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.fifth{
+    color: rgb(129, 54, 7);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 16px;
+    font-weight: 550;
+}
+.sixth{
+    color: rgb(129, 54, 7);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 16px;
+    font-weight: 550;
+}
+.seventh{
+    color: rgb(129, 54, 7);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 17px;
+    font-weight: 550;
+}
+a{
+    background-color: yellow;
+    font-style:italic;
+    font-weight: 600;
+    color:rgb(232, 11, 11);
+    text-decoration: none;
+}
